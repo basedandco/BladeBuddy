@@ -1,4 +1,4 @@
-# 📦 `b-side` — “the flip side of email”
+# 📦 `BladeBuddy` — “the flip side of email”
 
 > A Node.js client for the **Twoblade (2B)** email protocol.
 > Because your inbox deserves a little chaos.
@@ -10,7 +10,7 @@ Use this package to connect to any Twoblade-compatible server, fetch/send BladeM
 ## 🚀 Install
 
 ```bash
-npm install b-side
+npm install bladebuddy
 ```
 
 ---
